@@ -1,6 +1,6 @@
 # Sensor_alarma
 
-Este proyecto utiliza un dispositivo ESP32 junto con varios componentes electrónicos para crear un sistema de seguridad. El objetivo principal es monitorear la distancia medida por un sensor ultrasónico y tomar acciones específicas, como encender diferentes LEDs y activar una alarma, según la distancia detectada. Además, se proporciona una interfaz de usuario en tiempo real a través del dashboard de Arduino IoT para visualizar la distancia actual y el estado de la alarma.
+Este proyecto utiliza un dispositivo ESP32 junto con varios componentes electrónicos para crear un sistema de detección de objetos cercanos. El objetivo principal es monitorear la distancia medida por un sensor ultrasónico y tomar acciones específicas, como encender diferentes LEDs y activar una alarma, según la distancia detectada. Además, se proporciona una interfaz de usuario en tiempo real a través del dashboard de Arduino IoT para visualizar la distancia actual y el estado de la alarma.
 
 ## Componentes Necesarios
 
