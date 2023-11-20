@@ -32,7 +32,7 @@ Este proyecto utiliza un dispositivo ESP32 junto con varios componentes electró
     - Asegúrese de tener el [Arduino IDE](https://www.arduino.cc/en/software) instalado en su sistema.
 
 4. **Carga del Código:**
-    - Abra el archivo principal (`security_system.ino`) en el Arduino IDE.
+    - Abra el archivo principal (`sensor_alarma.ino`) en el Arduino IDE.
     - Seleccione el tipo de placa (ESP32) y el puerto COM correcto.
     - Cargue el código en el ESP32.
 
